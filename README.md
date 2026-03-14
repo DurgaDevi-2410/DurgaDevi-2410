@@ -13,6 +13,11 @@ Currently focusing on **Full Stack Development**, improving my backend and front
 
 ## 📂 Featured Projects
 
+🔹 Zenvora – E-Commerce Web Application
+A responsive e-commerce web application with a smooth shopping interface where users can explore products and experience a modern UI.
+Tech Used: React, Bootstrap, JavaScript
+🔗 Project Link: https://zenvora-fjon.vercel.app
+
 ## 📫 How to reach me?
 
 📧 Email: (mailto:durgadevi.nagarajan2410@gmail.com)
