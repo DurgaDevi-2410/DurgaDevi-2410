@@ -18,6 +18,26 @@ A responsive e-commerce web application with a smooth shopping interface where u
 Tech Used: React, Bootstrap, JavaScript
 🔗 Project Link: https://zenvora-fjon.vercel.app
 
+🔹 Games Hub – Web Games Collection
+A collection of 21 simple web games designed to provide fun and improve logical thinking through interactive gameplay.
+Tech Used: React, JavaScript
+🔗 Project Link: https://games-hub-roan.vercel.app/
+
+🔹 ToDo – Task Management Application
+A task management web application that helps users organize and manage their daily activities efficiently.
+Tech Used: React, Django, MySQL
+🔗 Project Link: https://todo-frontend-bydo.vercel.app/login
+
+🔹 Diary – Personal Diary Application
+A secure personal diary application where users can write, store, and manage their daily entries safely.
+Tech Used: React, Django, MySQL
+🔗 Project Link: https://diary-frontend-delta.vercel.app/login
+
+🔹 Hotel Management Website
+A responsive hotel management website with a modern UI for exploring hotel services, rooms, and booking details.
+Tech Used: HTML, CSS, JavaScript, Bootstrap
+🌐 Live Demo: https://durgadevi-2410.github.io/Funk-Monk-hotel-website
+
 ## 📫 How to reach me?
 
 📧 Email: (mailto:durgadevi.nagarajan2410@gmail.com)
