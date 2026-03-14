@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm **Durga Devi**, a **B.Sc Computer Science graduate** and a **Full Stack Web Developer** who enjoys building modern and responsive web applications. I am passionate about learning new technologies and improving my development skills.
+Hi, I'm **Durga Devi N**, a **B.Sc Computer Science graduate** and a **Full Stack Web Developer** who enjoys building modern and responsive web applications. I am passionate about learning new technologies and improving my development skills.
 
 Currently focusing on **Full Stack Development**, improving my backend and frontend skills, and building web applications using modern frameworks and tools.
 
