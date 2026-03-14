@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**DurgaDevi-2410/DurgaDevi-2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Durga Devi**, a **B.Sc Computer Science graduate** and a **Full Stack Web Developer** who enjoys building modern and responsive web applications. I am passionate about learning new technologies and improving my development skills.
 
-Here are some ideas to get you started:
+Currently focusing on **Full Stack Development**, improving my backend and frontend skills, and building web applications using modern frameworks and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React
+**Backend:** Node.js, Express.js, Django, REST API
+**Database:** MySQL
+**Tools:** Git, GitHub, Postman
+
+## 📂 Featured Projects
+
+## 📫 How to reach me?
+
+📧 Email: (mailto:durgadevi.nagarajan2410@gmail.com)
+💼 GitHub: https://github.com/DurgaDevi-2410
+
