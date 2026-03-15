@@ -41,7 +41,7 @@ Tech Used: HTML, CSS, JavaScript, Bootstrap <br/>
 🔹 NextGen Institute Website <br/>
 A responsive institute website designed to showcase courses, programs, and training opportunities with a clean and informative user interface. <br/>
 Tech Used: React, Django, MySql <br/>
-🔗 GitHub: https://github.com/yourusername/nextgen-website <br/>
+🔗 GitHub: https://github.com/DurgaDevi-2410/NextGen24 <br/>
 
 ## 📫 How to reach me?
 
