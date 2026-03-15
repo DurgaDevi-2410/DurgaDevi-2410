@@ -28,18 +28,18 @@ A task management web application that helps users organize and manage their dai
 Tech Used: React, Django, MySQL <br/>
 🔗 Project Link: https://todo-frontend-bydo.vercel.app/login
 
-🔹 Diary – Personal Diary Application 
-A secure personal diary application where users can write, store, and manage their daily entries safely.
-Tech Used: React, Django, MySQL
+🔹 Diary – Personal Diary Application  <br/>
+A secure personal diary application where users can write, store, and manage their daily entries safely. <br/> 
+Tech Used: React, Django, MySQL <br/>
 🔗 Project Link: https://diary-frontend-delta.vercel.app/login
 
-🔹 Hotel Management Website
-A responsive hotel management website with a modern UI for exploring hotel services, rooms, and booking details.
-Tech Used: HTML, CSS, JavaScript, Bootstrap
+🔹 Hotel Management Website <br/>
+A responsive hotel management website with a modern UI for exploring hotel services, rooms, and booking details. <br/>
+Tech Used: HTML, CSS, JavaScript, Bootstrap <br/>
 🌐 Live Demo: https://durgadevi-2410.github.io/Funk-Monk-hotel-website
 
 ## 📫 How to reach me?
 
-📧 Email: (mailto:durgadevi.nagarajan2410@gmail.com)
+📧 Email: (mailto:durgadevi.nagarajan2410@gmail.com) <br/>
 💼 GitHub: https://github.com/DurgaDevi-2410
 
