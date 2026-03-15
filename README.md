@@ -7,28 +7,28 @@ Currently focusing on **Full Stack Development**, improving my backend and front
 ## 🛠️ Tech Stack & Tools
 
 **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React <br/>
-**Backend:** Node.js, Express.js, Django, REST API
-**Database:** MySQL
-**Tools:** Git, GitHub, Postman
+**Backend:** Node.js, Express.js, Django, REST API  <br/>
+**Database:** MySQL <br/>
+**Tools:** Git, GitHub, Postman <br/>
 
 ## 📂 Featured Projects
 
-🔹 Zenvora – E-Commerce Web Application
-A responsive e-commerce web application with a smooth shopping interface where users can explore products and experience a modern UI.
-Tech Used: React, Bootstrap, JavaScript
+🔹 Zenvora – E-Commerce Web Application <br/>
+A responsive e-commerce web application with a smooth shopping interface where users can explore products and experience a modern UI. <br/>
+Tech Used: React, Bootstrap, JavaScript  <br/>
 🔗 Project Link: https://zenvora-fjon.vercel.app
 
-🔹 Games Hub – Web Games Collection
-A collection of 21 simple web games designed to provide fun and improve logical thinking through interactive gameplay.
-Tech Used: React, JavaScript
+🔹 Games Hub – Web Games Collection <br/>
+A collection of 21 simple web games designed to provide fun and improve logical thinking through interactive gameplay. <br/>
+Tech Used: React, JavaScript <br/> 
 🔗 Project Link: https://games-hub-roan.vercel.app/
 
-🔹 ToDo – Task Management Application
-A task management web application that helps users organize and manage their daily activities efficiently.
-Tech Used: React, Django, MySQL
+🔹 ToDo – Task Management Application <br/>
+A task management web application that helps users organize and manage their daily activities efficiently. <br/>
+Tech Used: React, Django, MySQL <br/>
 🔗 Project Link: https://todo-frontend-bydo.vercel.app/login
 
-🔹 Diary – Personal Diary Application
+🔹 Diary – Personal Diary Application 
 A secure personal diary application where users can write, store, and manage their daily entries safely.
 Tech Used: React, Django, MySQL
 🔗 Project Link: https://diary-frontend-delta.vercel.app/login
