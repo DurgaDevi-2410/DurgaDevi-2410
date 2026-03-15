@@ -38,6 +38,11 @@ A responsive hotel management website with a modern UI for exploring hotel servi
 Tech Used: HTML, CSS, JavaScript, Bootstrap <br/>
 🌐 Live Demo: https://durgadevi-2410.github.io/Funk-Monk-hotel-website
 
+🔹 NextGen Institute Website <br/>
+A responsive institute website designed to showcase courses, programs, and training opportunities with a clean and informative user interface. <br/>
+Tech Used: React, Django, MySql <br/>
+🔗 GitHub: https://github.com/yourusername/nextgen-website <br/>
+
 ## 📫 How to reach me?
 
 📧 Email: (mailto:durgadevi.nagarajan2410@gmail.com) <br/>
