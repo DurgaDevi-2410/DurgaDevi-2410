@@ -6,7 +6,7 @@ Currently focusing on **Full Stack Development**, improving my backend and front
 
 ## 🛠️ Tech Stack & Tools
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React <br/>
 **Backend:** Node.js, Express.js, Django, REST API
 **Database:** MySQL
 **Tools:** Git, GitHub, Postman
