@@ -12,6 +12,10 @@ Currently, I am focusing on **Full Stack Development**, strengthening both my **
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaDevi-2410&layout=compact&theme=tokyonight)
 
+## 🌐 Portfolio
+
+🔗 https://durga-devi-fv1g.vercel.app
+
 ## 📂 Featured Projects
 
 🔹 Zenvora – E-Commerce Web Application <br/>
