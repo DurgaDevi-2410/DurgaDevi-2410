@@ -42,13 +42,13 @@ Tech Used: HTML, CSS, JavaScript, Bootstrap <br/>
 
 🔹 NextGen Institute Website <br/>
 A responsive institute website designed to showcase courses, programs, and training opportunities with a clean and informative user interface. <br/>
-Tech Used: React, Django, MySql <br/>
+Tech Used: React, Django, MySQL <br/>
 🔗 GitHub: https://github.com/DurgaDevi-2410/NextGen24 <br/>
 
 
 ## 🌐 Portfolio
 
-💻 View my portfolio website:  
+💻 View out my portfolio website:  
 🔗 https://durga-devi-fv1g.vercel.app
 
 
@@ -56,4 +56,7 @@ Tech Used: React, Django, MySql <br/>
 
 📧 Email: (mailto:durgadevi.nagarajan2410@gmail.com) <br/>
 💼 GitHub: https://github.com/DurgaDevi-2410
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=DurgaDevi-2410&color=blue)
 
