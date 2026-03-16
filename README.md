@@ -13,7 +13,6 @@ Currently focusing on **Full Stack Development**, improving my backend and front
 
 ## 📊 GitHub Stats
 
-![Durga's GitHub stats](https://github-readme-stats.vercel.app/api?username=DurgaDevi-2410&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaDevi-2410&layout=compact&theme=tokyonight)
 
