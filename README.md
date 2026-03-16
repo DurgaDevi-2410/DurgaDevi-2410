@@ -11,6 +11,14 @@ Currently focusing on **Full Stack Development**, improving my backend and front
 **Database:** MySQL <br/>
 **Tools:** Git, GitHub, Postman <br/>
 
+## 📊 GitHub Stats
+
+![Durga's GitHub stats](https://github-readme-stats.vercel.app/api?username=DurgaDevi-2410&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaDevi-2410&layout=compact&theme=tokyonight)
+
+---
+
 ## 📂 Featured Projects
 
 🔹 Zenvora – E-Commerce Web Application <br/>
