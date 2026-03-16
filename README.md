@@ -4,15 +4,11 @@ Hi, I'm **Durga Devi N**, a **B.Sc Computer Science graduate** and a **Full Stac
 
 Currently focusing on **Full Stack Development**, improving my backend and frontend skills, and building web applications using modern frameworks and tools.
 
-## 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React <br/>
-**Backend:** Node.js, Express.js, Django, REST API  <br/>
-**Database:** MySQL <br/>
-**Tools:** Git, GitHub, Postman <br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nodejs,express,django,mysql,git,github,postman,vscode" />
 
 ## 📊 GitHub Stats
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaDevi-2410&layout=compact&theme=tokyonight)
 
@@ -50,9 +46,6 @@ A responsive institute website designed to showcase courses, programs, and train
 Tech Used: React, Django, MySql <br/>
 🔗 GitHub: https://github.com/DurgaDevi-2410/NextGen24 <br/>
 
-## 🛠 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,django,mysql,git,github,vscode" />
 
 ## 📫 How to reach me?
 
