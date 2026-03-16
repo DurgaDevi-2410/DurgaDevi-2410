@@ -13,12 +13,6 @@ Currently, I am focusing on **Full Stack Development**, strengthening both my **
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaDevi-2410&layout=compact&theme=tokyonight)
 
 
-## 🌐 Portfolio
-
-💻 View my portfolio website:  
-🔗 https://durga-devi-fv1g.vercel.app
-
-
 ## 📂 Featured Projects
 
 🔹 Zenvora – E-Commerce Web Application <br/>
@@ -50,6 +44,12 @@ Tech Used: HTML, CSS, JavaScript, Bootstrap <br/>
 A responsive institute website designed to showcase courses, programs, and training opportunities with a clean and informative user interface. <br/>
 Tech Used: React, Django, MySql <br/>
 🔗 GitHub: https://github.com/DurgaDevi-2410/NextGen24 <br/>
+
+
+## 🌐 Portfolio
+
+💻 View my portfolio website:  
+🔗 https://durga-devi-fv1g.vercel.app
 
 
 ## 📫 How to reach me?
