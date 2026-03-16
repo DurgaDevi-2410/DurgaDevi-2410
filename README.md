@@ -50,7 +50,9 @@ A responsive institute website designed to showcase courses, programs, and train
 Tech Used: React, Django, MySql <br/>
 🔗 GitHub: https://github.com/DurgaDevi-2410/NextGen24 <br/>
 
+## 🛠 Tech Stack
 
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,django,mysql,git,github,vscode" />
 
 ## 📫 How to reach me?
 
