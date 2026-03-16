@@ -56,7 +56,3 @@ Tech Used: React, Django, MySQL <br/>
 
 📧 Email: (mailto:durgadevi.nagarajan2410@gmail.com) <br/>
 💼 GitHub: https://github.com/DurgaDevi-2410
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=DurgaDevi-2410&color=blue)
-
