@@ -10,7 +10,7 @@ Currently, I am focusing on **Full Stack Development**, strengthening both my **
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaDevi-2410&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaDevi-2410&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 ## 📂 Featured Projects
