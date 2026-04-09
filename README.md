@@ -8,10 +8,6 @@ Currently, I am focusing on **Full Stack Development**, strengthening both my **
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nodejs,express,django,mysql,git,github,postman,vscode" />
 
-## 📊 GitHub Stats
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaDevi-2410&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=3)
-
 
 ## 📂 Featured Projects
 
