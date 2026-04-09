@@ -15,6 +15,19 @@ Currently, I am focusing on **Full Stack Development**, strengthening both my **
 
 ## 📂 Featured Projects
 
+🔹 QuickChat – Real-Time Chat Web Application <br/>
+A responsive real-time chat application that allows users to send and receive messages instantly with a smooth and interactive user experience. It features a modern UI, efficient communication, and seamless performance. <br/>
+Tech Used: React, Node.js, Express.js, MySQL <br/>
+🔗 Project Demo: https://drive.google.com/file/d/1BOt4wBuj1lmyhuVebYFAi2cY8894W47R/view?usp=drive_link <br/>
+🔗 GitHub: https://github.com/DurgaDevi-2410/CHATAPP-FRONTEND 
+
+🔹 Fleet Management & Transport Intelligence System 🚛📊 <br/>
+A full-stack web application developed for Sri Vignesh Transports to efficiently manage fleet operations, bookings, and expenses with real-time insights. The system provides a modern and user-friendly interface to streamline transport management and improve operational efficiency. <br/>
+✨ Features: Real-time dashboard, vehicle management, booking tracking, expense monitoring, and analytics <br/>
+🛠 Tech Used: React, Node.js, Express.js, MySQL <br/>
+🔗 Project Demo: https://drive.google.com/file/d/1FeO6-4-ZVbb79mGliH_9JMhO_Yx7D4OU/view?usp=drive_link <br/>
+🔗 GitHub: https://github.com/DurgaDevi-2410/Sri-Vignesh-Transports
+
 🔹 Zenvora – E-Commerce Web Application <br/>
 A responsive e-commerce web application with a smooth shopping interface where users can explore products and experience a modern UI. <br/>
 Tech Used: React, Bootstrap, JavaScript  <br/>
@@ -49,7 +62,7 @@ Tech Used: React, Django, MySQL <br/>
 ## 🌐 Portfolio
 
 💻 View out my portfolio website:  
-🔗 https://durga-devi-fv1g.vercel.app
+🔗 https://durga-devi-vejc.vercel.app/
 
 
 ## 📫 How to reach me?
